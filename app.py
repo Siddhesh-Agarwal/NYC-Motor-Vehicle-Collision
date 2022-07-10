@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pydeck as pdk
-import plotly.express as px
 
 DATA_PATH = "./data/nypd-motor-vehicle-collisions.csv"
 st.title("NYC Motor Vehicle Collisions")
